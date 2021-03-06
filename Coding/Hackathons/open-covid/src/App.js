@@ -9,6 +9,7 @@ function App() {
     // BEM
     <div className="app">
       <Home />
+      {/* Componente search district */}
     </div>
   );
 }
